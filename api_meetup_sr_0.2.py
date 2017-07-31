@@ -1,6 +1,6 @@
 import urllib, json, time
 
-#### Version 0.1 ####
+#### Version 0.1  - BRANCH TEST MINING ####
 ##
 ## Rate limits as per Meetup:
 #X-RateLimit-Limit: 30
